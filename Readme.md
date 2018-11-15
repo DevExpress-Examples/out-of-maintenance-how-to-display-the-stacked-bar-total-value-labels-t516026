@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/StackedTotal/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/StackedTotal/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/StackedTotal/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/StackedTotal/MainWindow.xaml))
+<!-- default file list end -->
 # How to display the Stacked Bar total value labels
 
 
