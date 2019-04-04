@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/StackedTotal/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/StackedTotal/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/StackedTotal/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/StackedTotal/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/StackedTotal/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/StackedTotal/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to display the Stacked Bar total value labels
 
